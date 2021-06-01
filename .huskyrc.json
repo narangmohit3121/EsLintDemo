@@ -1,5 +1,6 @@
 {
     "hooks": {
+        "pre-commit":"echo precommit",
         "pre-push": "echo prePush"
     }
 }
