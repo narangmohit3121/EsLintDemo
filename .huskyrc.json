@@ -1,8 +1,6 @@
 {
-    "husky": {
-        "hooks": {
-            "pre-commit": "exit 0",
-            "pre-push": "echo prePush"
-        }
+    "hooks": {
+        "pre-commit": "exit 0",
+        "pre-push": "echo prePush"
     }
 }
