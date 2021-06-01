@@ -17,11 +17,11 @@
     "@typescript-eslint/eslint-plugin": "^4.26.0",
     "@typescript-eslint/parser": "^4.26.0",
     "eslint": "^7.27.0",
-    "husky": "^6.0.0"
+    "husky": "^4.3.8"
   },
-  "husky":{
-    "hooks":{
-      "pre-commit":"echo prehook"
+  "husky": {
+    "hooks": {
+      "pre-commit": "echo prehook"
     }
   }
 }
